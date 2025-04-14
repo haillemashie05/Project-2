@@ -1,0 +1,96 @@
+2025-04-11 13:09:43,951 - INFO - Scraping started.
+2025-04-11 13:09:51,327 - INFO - Scraping complete.
+2025-04-11 13:12:59,526 - INFO - Scraping started.
+2025-04-11 13:13:01,958 - INFO - Scraping complete.
+2025-04-11 14:00:21,415 - INFO - Job scraping initiated.
+2025-04-11 14:00:21,415 - INFO - ====== WebDriver manager ======
+2025-04-11 14:00:24,102 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:01:48,815 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:03:25,970 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 14:05:24,094 - INFO - Job scraping initiated.
+2025-04-11 14:05:24,095 - INFO - ====== WebDriver manager ======
+2025-04-11 14:05:25,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:05:26,667 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:05:27,835 - INFO - There is no [win64] chromedriver "135.0.7049.84" for browser google-chrome "135.0.7049" in cache
+2025-04-11 14:05:27,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:05:30,069 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-11 14:05:30,076 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-11 14:05:30,076 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-11 14:05:32,450 - INFO - Driver downloading response is 200
+2025-04-11 14:07:28,027 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:09:04,171 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 14:09:28,938 - INFO - Job scraping initiated.
+2025-04-11 14:09:28,939 - INFO - ====== WebDriver manager ======
+2025-04-11 14:09:30,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:11:04,343 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 14:12:19,684 - INFO - Job scraping initiated.
+2025-04-11 14:12:19,684 - INFO - ====== WebDriver manager ======
+2025-04-11 14:12:21,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:12:44,077 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:12:44,757 - INFO - There is no [win64] chromedriver "135.0.7049.84" for browser google-chrome "135.0.7049" in cache
+2025-04-11 14:12:44,757 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:12:47,280 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-11 14:12:47,293 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-11 14:12:47,294 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-11 14:12:48,319 - INFO - Driver downloading response is 200
+2025-04-11 14:14:44,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:16:13,490 - INFO - Driver has been saved in cache [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84]
+2025-04-11 14:16:36,631 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_141636.csv
+2025-04-11 14:27:01,434 - INFO - Job scraping initiated.
+2025-04-11 14:27:01,434 - INFO - ====== WebDriver manager ======
+2025-04-11 14:27:03,232 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:28:27,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 14:29:14,572 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 14:29:37,979 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_142937.csv
+2025-04-11 15:14:42,726 - INFO - Job scraping initiated.
+2025-04-11 15:14:42,726 - INFO - ====== WebDriver manager ======
+2025-04-11 15:14:44,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 15:14:46,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 15:14:46,899 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 15:15:11,115 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_151511.csv
+2025-04-14 08:35:30,928 - INFO - Job scraping initiated.
+2025-04-14 08:35:30,930 - INFO - ====== WebDriver manager ======
+2025-04-14 08:35:33,459 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:35:42,449 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-14 08:36:54,310 - INFO - Job scraping initiated.
+2025-04-14 08:36:54,311 - INFO - ====== WebDriver manager ======
+2025-04-14 08:36:56,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:37:06,366 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:38:31,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:41:19,826 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-14 08:41:19,830 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 08:41:19,831 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 08:42:44,980 - INFO - Driver downloading response is 200
+2025-04-14 08:42:46,301 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:44:01,684 - INFO - Job scraping initiated.
+2025-04-14 08:44:01,684 - INFO - ====== WebDriver manager ======
+2025-04-14 08:44:04,157 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:45:28,647 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:46:53,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:49:42,031 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-14 08:49:42,036 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 08:49:42,037 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 08:51:06,612 - INFO - Driver downloading response is 200
+2025-04-14 08:51:27,254 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 08:52:54,249 - INFO - Driver has been saved in cache [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84]
+2025-04-14 08:53:17,041 - INFO - Scraped 10 jobs and saved to scraped_data_20250414_085316.csv
+2025-04-14 09:09:04,875 - INFO - Job scraping initiated.
+2025-04-14 09:09:04,875 - INFO - ====== WebDriver manager ======
+2025-04-14 09:09:06,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:10:39,840 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-14 09:11:11,447 - INFO - Job scraping initiated.
+2025-04-14 09:11:11,448 - INFO - ====== WebDriver manager ======
+2025-04-14 09:11:13,051 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:12:46,178 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-14 09:14:42,939 - INFO - Job scraping initiated.
+2025-04-14 09:14:42,940 - INFO - ====== WebDriver manager ======
+2025-04-14 09:14:44,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:14:45,033 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:14:45,207 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-14 09:14:57,782 - INFO - Scraped 10 jobs and saved to scraped_data_20250414_091457.csv
+2025-04-14 09:42:48,717 - INFO - Job scraping initiated.
+2025-04-14 09:42:48,718 - INFO - ====== WebDriver manager ======
+2025-04-14 09:42:50,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:42:51,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 09:42:52,169 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-14 09:43:04,950 - INFO - Scraped 10 jobs and saved to scraped_data_20250414_094304.csv
